@@ -1,3 +1,3 @@
 @echo off
-echo "Hola mundo"
+echo Hola %1
 pause
